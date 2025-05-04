@@ -6,6 +6,11 @@ Aplicación móvil desarrollada con React Native que implementa autenticación d
 
 [Video Explicación](https://udbedu-my.sharepoint.com/:v:/g/personal/rr121769_alumno_udb_edu_sv/EdnM62fSZTlBqX4z9kQG5iEBEdYK4bY3V-Ii3rFhrsRfiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UfBl1v)
 
+## 🔗 Enlace del Documento de investigación
+
+[Documento](https://udbedu-my.sharepoint.com/:b:/g/personal/rr121769_alumno_udb_edu_sv/ERjom5GL0ktIqoYz1vgfMaMBqUJ1oliWRl2OEdz_drUyTA?e=ek3xaF)
+
+
 ## 🚀 Características
 
 - Registro de usuarios con correo electrónico y contraseña.
